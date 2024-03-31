@@ -2,6 +2,14 @@
 # Eshop Backend
 
 This is a backend template for building e-commerce applications using NestJS, a progressive Node.js framework. It comes pre-configured with essential features necessary for creating a robust e-commerce platform, including user management, product management, authentication, shopping cart functionality, and category management.
+
+## Technologies Used
+
+
+- **NestJS**: Utilize the power of NestJS to create a scalable and maintainable backend architecture.
+- **Prisma**: Employ Prisma as the ORM (Object-Relational Mapping) tool for database access, providing type-safe database queries and easy database migrations.
+- **PostgreSQL**: Store application data in a reliable and scalable PostgreSQL database, ensuring data integrity and performance.
+
 ## Features
 
 - Authentication
